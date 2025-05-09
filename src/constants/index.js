@@ -42,7 +42,7 @@ export const PROJECTS = [
   {
     title: "E-Commerce Website",
     image: project1,
-    link:"https://github.com/Gunnerx7/shopsmart",
+    link:"https://shopsmart-r7qr.onrender.com/",
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
     technologies: ["HTML", "CSS", "Javascript", "Bootstrap-5", "Hibernate", "Spring Boot","MySQL", "JSP", "Spring Core"],
@@ -61,14 +61,14 @@ export const PROJECTS = [
     link: "https://github.com/Gunnerx7/myportfolio",
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Tailwind CSS"],
+    technologies: ["HTML", "CSS", "Javascript", "React", "Tailwind CSS"],
   },
   {
-    title: "To Do App",
+    title: "TaskMate",
     image: project4,
-    link: "https://github.com/Gunnerx7/todo-app",
+    link: "https://github.com/Gunnerx7/TaskMate",
     description:
-      "A simple and user-friendly To-Do app that helps users organize tasks, set priorities, and track progress efficiently.",
+      "A simple and user-friendly Task Management app that helps users organize tasks, set priorities, and track progress efficiently.",
     technologies: ["HTML", "CSS", "Javascript", "JSP", "mySQL", "JDBC", "Servlets"],
   },
 ];
