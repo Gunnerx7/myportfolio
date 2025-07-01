@@ -11,7 +11,8 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="mb-20 flex flex-col md:flex-row items-center justify-between py-6 px-4">
+    <nav className="<nav className="sticky top-0 z-50 flex flex-col md:flex-row items-center justify-between py-6 px-4 bg-neutral-950 bg-opacity-80 backdrop-blur mb-20">
+">
       <div className="flex items-center gap-4">
         <img
           className="w-10 cursor-pointer"
