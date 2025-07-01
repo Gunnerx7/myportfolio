@@ -11,7 +11,7 @@ const Navbar = () => {
   };
 
   return (
-   <nav className="sticky mb-20 flex flex-col md:flex-row items-center justify-between py-6 px-4">
+   <nav className="mb-20 flex flex-col md:flex-row items-center justify-between py-6 px-4">
       <div className="flex items-center gap-4">
         <img
           className="w-10 cursor-pointer"
